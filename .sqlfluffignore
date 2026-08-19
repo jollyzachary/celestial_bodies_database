@@ -1,0 +1,3 @@
+# This repository stores an exact pg_dump artifact. Reformatting generated
+# output would make regeneration noisy without improving the source schema.
+universe.sql
